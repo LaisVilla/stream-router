@@ -17,7 +17,7 @@ HEADERS = {
     "Content-Type": "application/json",
 }
 
-# Configuração da página
+
 st.set_page_config(page_title="Chat com DeepSeek", page_icon="🤖")
 st.title("🤖 Chat com IA (DeepSeek via OpenRouter)")
 
